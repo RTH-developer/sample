@@ -1,4 +1,10 @@
 second file 
 i create new branch named as feature
 i made some changes
+<<<<<<< HEAD.
 here text create for test merge conflict branch master
+=======
+i create this text to test the merge conflict in feature branch
+>>>>>>> feature.
+
+merge conflict fixed
