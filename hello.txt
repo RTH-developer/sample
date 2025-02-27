@@ -1,3 +1,4 @@
 second file 
 i create new branch named as feature
 i made some changes
+here text create for test merge conflict branch master
