@@ -8,3 +8,5 @@ i create this text to test the merge conflict in feature branch
 >>>>>>> feature.
 
 merge conflict fixed
+
+now i clone project outside of git folder
